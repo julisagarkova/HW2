@@ -1,0 +1,19 @@
+<TEI>
+<teiHeader> 
+<fileDesc>
+<titleStmt>
+<title>Кавказские повести</title>
+<author>А.А.Бестужев-Марлинский</author>
+</titleStmt>
+<respStmt>
+<persName>Юля Агаркова</persName>
+<resp>Создание TEI документа, выделение в тексте прямой речи</resp>
+</respStmt>
+</fileDesc>
+</teiHeader>
+3.<text> 
+А затем на миг воцарялось молчание; а затем взлетала на воздух стая охов вздохов.<speech><author_comment>Плечи подымались до ушей, брови до шапок ропот сливался в умолительное восклицание:</author_comment><said type="direct" aloud="true">"аман, аман (пощади, помилуй)!".
+</said>
+</speech> 
+</text> 
+</TEI>
